@@ -34,7 +34,7 @@ self.CLASSES = {
 }  # Background is 0, target classes start from 1
 ```
 
-Additionally, ensure your image files follow the naming format `XXX_mn`, where `XXX` represents the class name and `mn` is a numeric identifier.
+Additionally, ensure your image files follow the naming format `XXX_1234.jpg`, where `XXX` represents the class name and `1234` is a numeric identifier.
 
 
 ## Implementation Details
