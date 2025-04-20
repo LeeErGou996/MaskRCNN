@@ -46,8 +46,7 @@ We've enhanced the Region Proposal Network (RPN) with a DropBlock mechanism to i
 ## Usage
 
 The notebook test.ipynb can be accessed and run directly in Google Colab:
-[Open in Colab](https://colab.research.google.com/drive/1UYVHd7sIY2Ff-VHo1jA_Xf0KwBbgNrUX#scrollTo=f190f56c&uniqifier=1)
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uJGmcKVbAAeFquPzD65RAxW-25kme8YQ)
 ## References
 
 - [aotumanbiu/Pytorch-Mask-RCNN](https://github.com/aotumanbiu/Pytorch-Mask-RCNN)
